@@ -11,12 +11,15 @@
   },
   "dependencies": {
     "@handsontable/vue": "^2.0.0-beta1",
+    "@riophae/vue-treeselect": "0.0.31",
     "chart.js": "^2.7.2",
     "handsontable": "^3.0.0",
     "semantic-ui-vue": "^0.2.10",
     "vue": "^2.5.11",
     "vue-chartjs": "^3.3.1",
+    "vue-jstree": "^2.1.6",
     "vue-router": "^3.0.1",
+    "vue-virtual-scroll-list": "^1.2.7",
     "vuex": "^3.0.1"
   },
   "browserslist": [
